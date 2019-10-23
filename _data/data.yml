@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Wilson Chai
-    tagline: Full Stack Developer
+    tagline: Software Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -44,31 +44,25 @@ career-profile:
       Highly motivated developer with a passion for creating and designing software solutions for 
       clients using programming languages such as Java and JavaScript. 
       Developed an application for the CEO of BNC International Inc. to help automate email sending. 
-      Designed and implemented the website for Bella Nutrition Services.
+      Designed and implemented the website for <a href="bellanutritionservices.com" target="_blank">Bella Nutrition Services</a>.
 
 education:
     - degree: Computer Programming
       college: Seneca College
       time: 2017 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        This diploma focused on web technologies and software development.
 
-          - Bullet point
-          - Bullet point
+          - Java
+          - HTML5 & CSS
+          - JavaScript
+          - C/C++
 
     - degree: BS in Aviation Technology
       college: Seneca College
       time: 2013 - 2015
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        This program was focused on understanding the physics and technologies that allows an aircraft to fly. 
 
           - Completed Private Pilot Licence with 110 hours flight time.
 
@@ -77,15 +71,7 @@ experiences:
       time: 2018 - Present
       company: Risa Hall Web Design, Inc.
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        In this position as a Web Developer, I've worked with new or existing clients to create and update websites for them.
 
           - Designed the website for <a href="bellanutritionservices.com" target="_blank">Bella Nutrition Services</a> and implemented SEO.
           - Worked with a Senior Web Designer to develop and implement web site updates for a returning client <a href="indepththerapy.org" target="_blank">In-Depth Therapy</a>.
@@ -94,54 +80,36 @@ experiences:
       time: 2008- 2018
       company: BNC International Inc.
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        A pita bread factory where I've done accounting, scheduling and office work. Here I've gained valuable experience in helpipng a business run.
 
           - Processed accounts receivable and payable paperwork on QuickBooks software with attention to detail.
+          - Developed a Java application for the CEO to help automate weekly emails.
 
     - role: Flight Dispatcher
       time: May 2013 - October 2013
       company: Seneca College
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Helped operate a flight school with over 150 students as a Flight Dispatcher with additional responsibilities such as reception and security.
 
-          - Bullet point
-          - Bullet point
+          - Obtained Private Pilot Licence at the same time with 110 flight hours.
 
 projects:
     title: Related Work Experience
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Below are some of the projects that required my skills as a software and web developer.
 
     assignments:
       - title: Automatic Email Sender
         link: "https://github.com/WilsonChai/AutoEmailer"
         tagline: "Built for the CEO of BNC International Inc. to help automate weekly emails."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Bella Nutrition Services
+        link: "https://bellanutritionservices.com"
+        tagline: "A responsive website that was developed for a client while I was working with Risa Hall Web Design, Inc."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Tic Tac Toe
+        link: "https://github.com/HopeEternal/TicTacToe"
+        tagline: "A game that was built in collaboration with the CEO of Risa Hall Web Design, Inc."
 
 # publications:
 #     title: Publications
