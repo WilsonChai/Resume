@@ -129,7 +129,7 @@ projects:
 
     assignments:
       - title: Automatic Email Sender
-        link: "github.com/WilsonChai/AutoEmailer"
+        link: "https://github.com/WilsonChai/AutoEmailer"
         tagline: "Built for the CEO of BNC International Inc. to help automate weekly emails."
 
       - title: DevStudio
