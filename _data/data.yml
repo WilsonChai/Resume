@@ -129,7 +129,7 @@ projects:
 
     assignments:
       - title: Automatic Email Sender
-        link: "github.com/WilsonChai/AutoEmailer"
+        link: "#github.com/WilsonChai/AutoEmailer"
         tagline: "Built for the CEO of BNC International Inc. to help automate weekly emails."
         
             - Generates an average of 10 emails per week, which saves the CEO an hour a week.
