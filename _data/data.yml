@@ -108,7 +108,7 @@ projects:
         tagline: "A responsive website that was developed for a client while I was working with Risa Hall Web Design, Inc."
 
       - title: Tic Tac Toe
-        link: "https://github.com/HopeEternal/TicTacToe"
+        link: "https://tictactoeheroku.herokuapp.com/"
         tagline: "A game that was built in collaboration with the CEO of Risa Hall Web Design, Inc."
 
 # publications:
